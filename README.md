@@ -1,10 +1,10 @@
-Version d'Unity : 2022.1.20f1
-Plateforme : PC
-Temps de travail : environ 10h (majorité du temps passé sur la mise en place de l'UI et la flexibilité du système de puzzle)
-Plugins utilisés : DOTween pour les feedbacks visuels
+- Version d'Unity : 2022.1.20f1
+- Temps de travail : environ 10h (majorité du temps passé sur la mise en place de l'UI et la flexibilité du système de puzzle)
+- Plugins utilisés : DOTween pour les feedbacks visuels
 
 Ce projet est un puzzle game très simple, mettez les pièces au bon endroit pour gagner la partie !
-Il est possible d'utiliser la souris ou une manette. Dans ce cas de figure, appuyez sur A pour sélectionner une pièce, puis B pour la déposer sur un emplacement !
+Il est possible d'utiliser la souris ou une manette. 
+Dans ce cas de figure, appuyez sur A pour sélectionner une pièce, puis B pour la déposer sur un emplacement !
 
 Remarques :
 

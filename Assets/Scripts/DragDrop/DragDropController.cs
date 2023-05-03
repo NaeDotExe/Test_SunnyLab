@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// Will work for GamePad only !!
 public class DragDropController : MonoBehaviour
 {
     #region Attributes
